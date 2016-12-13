@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'creek/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "creek"
+  spec.name          = "td-creek"
   spec.version       = Creek::VERSION
   spec.authors       = ["pythonicrubyist"]
   spec.email         = ["pythonicrubyist@gmail.com"]
